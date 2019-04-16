@@ -1,0 +1,28 @@
+    DateTime                         id             Date               Time           Global_active_power
+ Min.   :2007-01-01 01:00:00   Min.   :     1   Length:1569894     Length:1569894     Min.   : 0.076     
+ 1st Qu.:2007-10-03 08:39:15   1st Qu.:130851   Class :character   Class :character   1st Qu.: 0.300     
+ Median :2008-07-01 22:05:30   Median :264035   Mode  :character   Mode  :character   Median : 0.566     
+ Mean   :2008-07-02 03:54:14   Mean   :263274                                         Mean   : 1.089     
+ 3rd Qu.:2009-03-31 14:32:45   3rd Qu.:395212                                         3rd Qu.: 1.524     
+ Max.   :2010-01-01 00:59:00   Max.   :527040                                         Max.   :11.122     
+ Global_reactive_power Global_intensity    Voltage      Sub_metering_1   Sub_metering_2   Sub_metering_3  
+ Min.   :0.0000        Min.   : 0.200   Min.   :223.2   Min.   : 0.000   Min.   : 0.000   Min.   : 0.000  
+ 1st Qu.:0.0460        1st Qu.: 1.400   1st Qu.:238.7   1st Qu.: 0.000   1st Qu.: 0.000   1st Qu.: 0.000  
+ Median :0.1000        Median : 2.600   Median :240.8   Median : 0.000   Median : 0.000   Median : 1.000  
+ Mean   :0.1219        Mean   : 4.624   Mean   :240.6   Mean   : 1.159   Mean   : 1.343   Mean   : 6.216  
+ 3rd Qu.:0.1920        3rd Qu.: 6.400   3rd Qu.:242.8   3rd Qu.: 0.000   3rd Qu.: 1.000   3rd Qu.:17.000  
+ Max.   :1.3900        Max.   :48.400   Max.   :254.2   Max.   :82.000   Max.   :78.000   Max.   :31.000  
+      year         quarter         month             week         weekday               day             hour     
+ Min.   :2007   Min.   :1.00   Min.   : 1.000   Min.   : 1.00   Length:1569894     Min.   : 1.00   Min.   : 0.0  
+ 1st Qu.:2007   1st Qu.:2.00   1st Qu.: 4.000   1st Qu.:13.00   Class :character   1st Qu.: 8.00   1st Qu.: 5.0  
+ Median :2008   Median :3.00   Median : 7.000   Median :27.00   Mode  :character   Median :16.00   Median :12.0  
+ Mean   :2008   Mean   :2.51   Mean   : 6.529   Mean   :26.62                      Mean   :15.71   Mean   :11.5  
+ 3rd Qu.:2009   3rd Qu.:4.00   3rd Qu.:10.000   3rd Qu.:40.00                      3rd Qu.:23.00   3rd Qu.:18.0  
+ Max.   :2010   Max.   :4.00   Max.   :12.000   Max.   :53.00                      Max.   :31.00   Max.   :23.0  
+     minute         residual      
+ Min.   : 0.00   Min.   : -2.400  
+ 1st Qu.:14.25   1st Qu.:  3.767  
+ Median :30.00   Median :  5.500  
+ Mean   :29.50   Mean   :  9.435  
+ 3rd Qu.:44.00   3rd Qu.: 10.367  
+ Max.   :59.00   Max.   :122.167  
